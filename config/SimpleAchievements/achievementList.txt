@@ -1,0 +1,124 @@
+=== Flat Factory ===::1
+Welcome to Flat Factory, a ModPack made by abused_master. Flat Factory is a modpack based on a flat world modded progression! You start of with Ex Nihilo and progress to being able to make your own dimensions! Play with some really popular mods in a fairly new world type, starting off with just wood and dirt.::1
+Credits: Thanks to Kurama for helping test and TheCodedOne for the pack logo::1
+(make sure you disable JEI when in the book, Ctrl + o, or jei will mess with pressing the buttons)::1
+These achievements are in no order at all::1
+=== The Beginning ===::1
+Find and break some Wood(Different saplings spawn around Ents)::0
+Create some wooden tools(Sword, Shovel, Axe, Pickaxe)::0
+Craft a Sieve and a Wood Mesh using the wood you obtained::0
+Sieve some dirt and make cobblestone::0
+Survive the night and get some string(spiders everywhere)::0
+Craft a Silk Mesh::0
+Craft a furnace and cook some food in it(mobs everywhere)::0
+Craft a wooden/cobblestone hammer and use it on some cobblestone::0
+Sift gravel for more advanced drops::0
+Craft an Oak Barrel and collect water when it rains::0
+Light up your area a bit(get rid of those pesky slimes)::0
+::1
+::1
+=== Stone Progression ===::1
+Craft some stone tools(Sword, Shovel, Axe, Pickaxe)::0
+Create some clay(dust in a barrel with water)::0
+Create a clay bucket and smelt it in a furnace::0
+Craft an Unfired Crucible and smelt it in a furnace::0
+Make Some lava using the Crucible with cobblestone::0
+Create a cobblestone generator using lava and water::0
+Explore a bit to find a village::0
+Start a normal food farm(you can get food from a village or seeds from breaking grass)::0
+Kill some Skeletons or sift some dust to obtain bonemeal::0
+Get some iron(Finally! right?) from sieveing gravel and smelting it::0
+== Personal Progression ==::1
+Build a base(Protection!)::0
+Make it look better::0
+Add some sort of decoration(tons of decoration mods are here!)::0
+Expand your base::0
+Make it look decent(not some ugly dirt or cobblestone house)::0
+Add a Basement::0
+=== Farming Progression ===::1
+Use some of the bonemeal you obtained to get some Minicio Seeds::0
+Start a Minicio farm to continue Primordial Crops::0
+Sift gravel to obtain a diamond::0
+Craft a Infusion Stone T1 using the diamond you obtained and minicio::0
+Craft and farm Coal Essence::0
+Upgrade your Infusion Stone to T2::0
+Progress to some Iron Seeds!::0
+Create higher Tiers of Seeds and Infusion Stones::0
+Craft a watering can using a bowl and 4 stone::0
+Upgrade your farm! Make it larger!::0
+=== Tinkers Progression ===::1
+Craft the basic Tinkers Construct blocks(Stencil Table, Part Builder, Tool Station, Pattern Chest)::0
+Create some Tinkers Tools(Sword, Pickaxe, Shovel, Axe)::0
+Craft the parts of a Tinkers Smeltery and assemble it::0
+Double some ore in the smelters::0
+Upgrade your tools to iron from making the parts in the Smeltery::0
+Upgrade your Tool Station to a Tool Forge::0
+Find a Slime Island and get up to it::0
+Construct some new weapons/Tools(CrossBow, Cleaver, Rapier, Hammer, anything of that sort)::0
+=== Power Progression ===::1
+Start off by making a coal generator any will work(Stirling: Ender IO, Coal Gen: Actually Additions, Furnace Generator: Extra Utils or Simple Generators)::0
+Craft some sort of Crusher(Crusher, Sag Mill)::0
+Create a powered Smelter(Alloy Smelter, Powered Furnace, ExU Furnace)::0
+== Resource Progression ==::1
+Craft 14 portal frames and a Mining Multitool::0
+Open the portal to the Aroma Dimension!::0
+Go mining to your hearts content::0
+Get some of the base resources(Gold, Diamond, Coal, Copper, Tin, Silver, Lead)::0
+Find and get some Sugar Cane too!::0
+== Storage Progression ==::1
+Expand your storage with Iron Chests to Compact Storage::0
+Craft any Backpack of your choice, 3 mods to choose from!::0
+Upgrade the storage to a higher tier!::0
+Get some Sky Stone::0
+Obtain the Applied Energistics Presses(Recipes found in JEI)::0
+Craft a Controller::0
+Craft a ME Terminal::0
+Craft a ME Drive::0
+Craft a Crystal Growth Chamber::0
+Craft a 16k Storage Cell::0
+== Sacrificial Progression ==::1
+Craft a Blood altar::0
+Craft a Apprentice Blood Orb::0
+Craft a Dagger of Sacrifice::0
+Craft a Magician Blood Orb::0
+Craft a Master Blood Orb::0
+Craft a Archmage Blood Orb::0
+::1
+::1
+::1
+::1
+=== Utilities ===::1
+Craft a Resonator(From ExU)::0
+Craft 8 Water Mills::0
+Craft a Mechanical Crafter::0
+Craft a Mechanical User::0
+Craft an Angel ring::0
+Craft Epic Bacon (Why not have rainbow food?)::0
+Craft a pump (From Ranged Pumps)::0
+Make a Tier 5 Soul Shard of an Enderman::0
+Craft an EFLN (Everyone loves a little chaos, right?)::0
+Craft a Slimesling (Up, up and away!)::0
+Craft a Colored Block Crafter (For decoration purposes!)::0
+Craft a Quantum Storage unit (I really don't need the chests for cobble..)::0
+Craft an Advanced Item Collector (For my mob farm)::0
+::1
+::1
+::1
+=== I GOT THE POWER! ===::1
+Make a 8x8 reactor::0
+Craft a Dimensional Transciever (We need power elsewhere too!)::0
+Make a Nuclear Reactor from IC2::0
+Craft a Nether Star Generator MK.III::0
+::1
+=== NOT THE BEES! ===::1
+Craft a Carpenter::0
+Craft a Centrifuge::0
+Craft a Scoop(So I can scoop the hives)::0
+Craft an Apiary::0
+Craft an Alveary (3x3x3 + slabbed roof)::0
+Breed a Demonic Queen (To produce Phosphor, for lava!)::0
+Progress through Forestry as you see fit!::0
+::1
+::1
+::1
+Completed all the achievements? dont worry, more are coming and always new ones being added!::1
